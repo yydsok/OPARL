@@ -1,3 +1,27 @@
+# exploration
+![{1T~}$ZC9GEC{{9S`WS~%_R.png](https://www.freeimg.cn/i/2023/12/22/65858b9de5cf0.png)
+# abstract
+Deep neural network (DNN) generalization is limited
+by the over-reliance of current offline reinforcement learning
+techniques on conservative processing of existing datasets. This
+method frequently results in algorithms that settle for suboptimal
+solutions that only adjust to a certain dataset. Similarly, in online
+reinforcement learning, the previously imposed punitive pes-
+simism also deprives the model of its exploratory potential. Our
+research proposes a novel framework, Optimistic and Pessimistic
+Actor Reinforcement Learning (OPARL) OPARL employs a
+unique dual-actor approach: an optimistic actor dedicated to
+exploration and a pessimistic actor focused on utilization, thereby
+effectively differentiating between exploration and utilization
+strategies. This unique combination in reinforcement learning
+methods fosters a more balanced and efficient approach. It
+enables the optimization of policies that focus on actions yielding
+high rewards through pessimistic utilization strategies, while
+also ensuring extensive state coverage via optimistic exploration.
+Experiments and theoretical study demonstrates OPARL im-
+proves agents’ capacities for application and exploration. In the
+most tasks of DMControl benchmark and Mujoco environment,
+OPARL performed better than state-of-the-art methods.
 # Addressing Function Approximation Error in Actor-Critic Methods
 
 PyTorch implementation of Twin Delayed Deep Deterministic Policy Gradients (TD3). If you use our code or data please cite the [paper](https://arxiv.org/abs/1802.09477).
