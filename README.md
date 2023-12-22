@@ -53,11 +53,11 @@ The result of **DMC**,**Mujoco** environment and **Ablation Study** are listed b
 | **Improvements** | **Percentage** | 0.00%           | 14.30%          | 4.08%           | 7.36%          |
 
 #### ii) Performance Curves for Mujoco
-<img src="img/mojuco-ant_1.png" style="width: 50%;" /><img src="img/mojuco-hopper_1.png" style="width: 45%;" />
-<img src="img/mojuco-humanoid_1.png" style="width: 50%;" /><img src="img/mojuco-walker_1.png" style="width: 45%;" />
+<img src="img/mojuco-ant_1.png" style="width: 50%;" /><img src="img/mojuco-hopper_1.png" style="width: 50%;" />
+<img src="img/mojuco-humanoid_1.png" style="width: 50%;" /><img src="img/mojuco-walker_1.png" style="width: 50%;" />
 #### iii) Ablation Performance Curve of Mujoco
-<img src="img/Ablation_study-ant_1.png" style="width: 50%;" /><img src="img/Ablation_study-hopper_1.png" style="width: 45%;" />
-<img src="img/Ablation_study-humanoid_1.png" style="width: 50%;" /><img src="img/Ablation_study-walker_1.png" style="width: 45%;" />
+<img src="img/Ablation_study-ant_1.png" style="width: 50%;" /><img src="img/Ablation_study-hopper_1.png" style="width: 50%;" />
+<img src="img/Ablation_study-humanoid_1.png" style="width: 50%;" /><img src="img/Ablation_study-walker_1.png" style="width: 50%;" />
 ### Bibtex
 
 ```
