@@ -53,11 +53,10 @@ The result of **DMC**,**Mujoco** environment and **Ablation Study** are listed b
 | **Improvements** | **Percentage** | 0.00%           | 14.30%          | 4.08%           | 7.36%          |
 
 #### ii)Performance Curves for Mujoco
-<img src="img/mojuco-ant.pdf" style="width: 24%;" />
-<img src="img/mojuco-hopper.pdf" style="width: 24%;" />
-<img src="img/mojuco-humanoid.pdf" style="width: 24%;" />
-<img src="img/mojuco-walker.pdf" style="width: 24%;" />
-<iframe src="img/mojuco-ant.pdf" width="600" height="400"></iframe>
+<img src="img/mojuco-ant_1.pdf" style="width: 24%;" />
+<img src="img/mojuco-hopper_1.pdf" style="width: 24%;" />
+<img src="img/mojuco-humanoid_1.pdf" style="width: 24%;" />
+<img src="img/mojuco-walker_1.pdf" style="width: 24%;" />
 #### iii)Ablation Performance Curve of Mujoco
 ### Bibtex
 
