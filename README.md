@@ -21,14 +21,12 @@ Algorithms which TD3 compares against (PPO, TRPO, ACKTR, DDPG) can be found at [
 
 ### Results
 Code is no longer exactly representative of the code used in the paper. Minor adjustments to hyperparamters, etc, to improve performance. Learning curves are still the original results found in the paper.
-
 Learning curves found in the paper are found under /learning_curves. Each learning curve are formatted as NumPy arrays of 201 evaluations (201,), where each evaluation corresponds to the average total reward from running the policy for 10 episodes with no exploration. The first evaluation is the randomly initialized policy network (unused in the paper). Evaluations are peformed every 5000 time steps, over a total of 1 million time steps. 
-
 Numerical results can be found in the paper, or from the learning curves. Video of the learned agent can be found [here](https://youtu.be/x33Vw-6vzso). 
 
-The result of DMC,Mujoco environment and Ablation Study are listed below:
+The result of **DMC**,**Mujoco** environment and **Ablation Study** are listed below:
 
-## Table: Performance Comparison in DMControl Training
+#### Table: Performance Comparison in DMControl Training
 
 **Caption:** The average return after 1 million time steps of DMControl training. OPARL demonstrated state-of-the-art performance on most (14 out of 18) tasks. In addition, OPARL outperforms its backbone algorithm SAC significantly in all tasks. Specifically, the OPARL algorithm outperforms REDQ, SAC, and TD3 by 14.30%, 4.08%, and 7.36%, respectively. The best scores are marked in black font. ± corresponds to the standard deviation of ten tests. The performance curves are shown in the Appendix\ref{fig:A}.
 
