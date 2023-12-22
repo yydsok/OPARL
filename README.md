@@ -52,6 +52,8 @@ The result of **DMC**,**Mujoco** environment and **Ablation Study** are listed b
 | **Average**  | **Scores**     | **805.7**          | 704.7           | 774.1           | 750.5          |
 | **Improvements** | **Percentage** | 0.00%           | 14.30%          | 4.08%           | 7.36%          |
 
+#### ii)Performance Curves for Mujoco
+#### iii)Ablation Performance Curve of Mujoco
 ### Bibtex
 
 ```
