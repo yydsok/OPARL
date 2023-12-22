@@ -28,8 +28,6 @@ The result of **DMC**,**Mujoco** environment and **Ablation Study** are listed b
 
 #### Table: Performance Comparison in DMControl Training
 
-**Caption:** The average return after 1 million time steps of DMControl training. OPARL demonstrated state-of-the-art performance on most (14 out of 18) tasks. In addition, OPARL outperforms its backbone algorithm SAC significantly in all tasks. Specifically, the OPARL algorithm outperforms REDQ, SAC, and TD3 by 14.30%, 4.08%, and 7.36%, respectively. The best scores are marked in black font. ± corresponds to the standard deviation of ten tests. The performance curves are shown in the Appendix\ref{fig:A}.
-
 | **Domain**   | **Task**       | **OPARL**          | **REDQ***       | **SAC***        | **TD3**        |
 |--------------|----------------|--------------------|-----------------|-----------------|----------------|
 | BallInCup    | Catch          | **983.8 ± 3.8**    | 978.8 ± 3.7     | 980.3 ± 3.4     | 979.2 ± 1.0    |
@@ -52,8 +50,6 @@ The result of **DMC**,**Mujoco** environment and **Ablation Study** are listed b
 | Walker       | Walk           | **975.3 ± 2.9**    | 957.3 ± 10.6    | 973.5 ± 4.4     | 969.2 ± 2.1    |
 | **Average**  | **Scores**     | **805.7**          | 704.7           | 774.1           | 750.5          |
 | **Improvements** | **Percentage** | 0.00%           | 14.30%          | 4.08%           | 7.36%          |
-
-**Note:** The data marked with an [*] is cited from the paper\cite{dmcshuju}.
 
 ### Bibtex
 
