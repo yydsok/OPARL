@@ -57,6 +57,7 @@ The result of **DMC**,**Mujoco** environment and **Ablation Study** are listed b
 <img src="img/mojuco-hopper.pdf" style="width: 24%;" />
 <img src="img/mojuco-humanoid.pdf" style="width: 24%;" />
 <img src="img/mojuco-walker.pdf" style="width: 24%;" />
+<img src="img/mojuco-ant.pdf">
 #### iii)Ablation Performance Curve of Mujoco
 ### Bibtex
 
