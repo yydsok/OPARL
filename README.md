@@ -54,7 +54,7 @@ The result of **DMC**,**Mujoco** environment and **Ablation Study** are listed b
 
 #### i) Table: Performance Comparison in DMControl Training
 
-<img src="img/comparison.jpg" style="width: 50%;" />
+<img src="img/comparison.jpg" style="width: 100%;" />
 
 | **Domain**   | **Task**       | **OPARL**          | **REDQ***       | **SAC***        | **TD3**        |
 |--------------|----------------|--------------------|-----------------|-----------------|----------------|
