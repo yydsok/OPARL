@@ -52,7 +52,7 @@ Numerical results can be found in the paper, or from the learning curves. Video 
 The result of **DMC**,**Mujoco** environment and **Ablation Study** are listed below:
 
 #### i) Table: Performance Comparison in DMControl Training
-<img src="img/comparison.jpg" style="width: 100%;" />
+
 | **Domain**   | **Task**       | **OPARL**          | **REDQ***       | **SAC***        | **TD3**        |
 |--------------|----------------|--------------------|-----------------|-----------------|----------------|
 | BallInCup    | Catch          | **983.8 ± 3.8**    | 978.8 ± 3.7     | 980.3 ± 3.4     | 979.2 ± 1.0    |
