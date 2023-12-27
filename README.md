@@ -4,7 +4,7 @@
   <a href="">Qirui Zhao</a><sup>2</sup>, 
   <a href="">Helin Wang</a><sup>3</sup>, 
   <a href="">Yuxiao Huang</a><sup>4</sup>, 
-  <a>Zirui Song</a><sup>5</sup>, 
+  <a href="https://ziruisongbest.github.io/">Zirui Song</a><sup>5</sup>, 
   <a href="">Miao Fang</a><sup>6</sup>
 </h4>
 <ul align="center">
