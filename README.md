@@ -36,7 +36,7 @@ The paper results can be reproduced by running:
 ```
 Experiments on single environments can be run by calling:
 ```
-python main.py --env HalfCheetah-v2
+python main.py --env HalfCheetah-v3
 ```
 
 Hyper-parameters can be modified with different arguments to main.py. We include an implementation of DDPG (DDPG.py), which is not used in the paper, for easy comparison of hyper-parameters with TD3. This is not the implementation of "Our DDPG" as used in the paper (see OurDDPG.py). 
