@@ -75,7 +75,7 @@ The result of **DMC**,**Mujoco** environment and **Ablation Study** are listed b
 | Walker       | Walk           | **975.3 ± 2.9**    | 957.3 ± 10.6    | 973.5 ± 4.4     | 969.2 ± 2.1    |
 | **Average**  | **Scores**     | **805.7**          | 704.7           | 774.1           | 750.5          |
 | **Improvements** | **Percentage** | 0.00%           | 14.30%          | 4.08%           | 7.36%          |
-
+<img src="img/comparison.jpg" style="width: 100%;" />
 #### ii) Performance Curves of Mujoco
 <img src="img/mojuco-ant_1.png" style="width: 50%;" /><img src="img/mojuco-hopper_1.png" style="width: 50%;" />
 <img src="img/mojuco-humanoid_1.png" style="width: 50%;" /><img src="img/mojuco-walker_1.png" style="width: 50%;" />
