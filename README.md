@@ -1,5 +1,5 @@
 # exploration
-<img src="img/explore.jpg" style="width: 100%;" />
+<img src="img/explore.jpg" width="300" height="450" />
 # abstract
 Deep neural network (DNN) generalization is limited
 by the over-reliance of current offline reinforcement learning
