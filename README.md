@@ -84,12 +84,13 @@ The result of **DMC**,**Mujoco** environment and **Ablation Study** are listed b
 <img src="img/Ablation_study-humanoid_1.png" style="width: 50%;" /><img src="img/Ablation_study-walker_1.png" style="width: 50%;" />
 ### Bibtex
 
-```
-@inproceedings{fujimoto2018addressing,
-  title={Addressing Function Approximation Error in Actor-Critic Methods},
-  author={Fujimoto, Scott and Hoof, Herke and Meger, David},
-  booktitle={International Conference on Machine Learning},
-  pages={1582--1591},
-  year={2018}
+``` bib
+@misc{yang2023optimistic,
+      title={Optimistic and Pessimistic Actor in RL:Decoupling Exploration and Utilization}, 
+      author={Jingpu Yang and Qirui Zhao and Helin Wang and Yuxiao Huang and Zirui Song and Miao Fang},
+      year={2023},
+      eprint={2312.15965},
+      archivePrefix={arXiv},
+      primaryClass={cs.LG}
 }
 ```
