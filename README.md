@@ -1,5 +1,5 @@
 # exploration
-![{1T~}$ZC9GEC{{9S`WS~%_R.png](https://www.freeimg.cn/i/2023/12/22/65858b9de5cf0.png)
+<img src="img/explore.jpg" style="width: 100%;" />
 # abstract
 Deep neural network (DNN) generalization is limited
 by the over-reliance of current offline reinforcement learning
