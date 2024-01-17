@@ -97,5 +97,3 @@ The result of **DMC**,**Mujoco** environment and **Ablation Study** are listed b
       primaryClass={cs.LG}
 }
 ```
-run python main.py
-```
