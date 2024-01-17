@@ -17,30 +17,10 @@
 
 
 ## Introduction
-Deep neural network (DNN) generalization is limited
-by the over-reliance of current offline reinforcement learning
-techniques on conservative processing of existing datasets. This
-method frequently results in algorithms that settle for suboptimal
-solutions that only adjust to a certain dataset. Similarly, in online
-reinforcement learning, the previously imposed punitive pes-
-simism also deprives the model of its exploratory potential. Our
-research proposes a novel framework, Optimistic and Pessimistic
-Actor Reinforcement Learning (OPARL) OPARL employs a
-unique dual-actor approach: an optimistic actor dedicated to
-exploration and a pessimistic actor focused on utilization, thereby
-effectively differentiating between exploration and utilization
-strategies. This unique combination in reinforcement learning
-methods fosters a more balanced and efficient approach. It
-enables the optimization of policies that focus on actions yielding
-high rewards through pessimistic utilization strategies, while
-also ensuring extensive state coverage via optimistic exploration.
-Experiments and theoretical study demonstrates OPARL im-
-proves agents’ capacities for application and exploration. In the
-most tasks of DMControl benchmark and Mujoco environment,
-OPARL performed better than state-of-the-art methods.
+This paper mainly discusses the application of reinforcement learning (RL) in single-agent and multi-agent environments, as well as the success of deep reinforcement learning in various fields. In single-agent training, DQN surpassed human-level performance in Atari video games, while Alpha defeated numerous professional players in the game of Go. However, single-agent training encounters some issues, such as the divergence in data distribution between training and testing environments, leading to significant impact from extrapolation errors in traditional RL algorithms. This results in overestimation of Q-values for Out-Of-Distribution (OOD) state-action pairs, causing the agent to erroneously prioritize these overestimated actions. Additionally, the imbalance between exploration and exploitation strategies can lead to diminished model generalization capabilities.
 
 ## exploration
-<img src="img/explore.jpg" style="width: 100%;"  />
+<img src="img/process.jpg" style="width: 60%;"  />
 
 ## Installation
 <a href="https://github.com/google-deepmind/dm_control"> Click here to install the environment of this project</a></h2>
@@ -96,11 +76,15 @@ The result of **DMC**,**Mujoco** environment and **Ablation Study** are listed b
 | **Improvements** | **Percentage** | 0.00%           | 14.30%          | 4.08%           | 7.36%          |
 
 #### ii) Performance Curves of Mujoco
-<img src="img/mojuco-ant_1.png" style="width: 50%;" /><img src="img/mojuco-hopper_1.png" style="width: 50%;" />
-<img src="img/mojuco-humanoid_1.png" style="width: 50%;" /><img src="img/mojuco-walker_1.png" style="width: 50%;" />
+<img src="img/1.jpg" style="width: 100%;" />  
+
 #### iii) Ablation Performance Curve of Mujoco
-<img src="img/Ablation_study-ant_1.png" style="width: 50%;" /><img src="img/Ablation_study-hopper_1.png" style="width: 50%;" />
-<img src="img/Ablation_study-humanoid_1.png" style="width: 50%;" /><img src="img/Ablation_study-walker_1.png" style="width: 50%;" />
+<img src="img/2.jpg" style="width: 100%;" />
+
+### Appendix
+<img src="img/3.jpg" style="width: 100%;" />
+
+
 ### Bibtex
 
 ``` bib
