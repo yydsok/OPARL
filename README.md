@@ -20,9 +20,10 @@
 This paper mainly discusses the application of reinforcement learning (RL) in single-agent and multi-agent environments, as well as the success of deep reinforcement learning in various fields. In single-agent training, DQN surpassed human-level performance in Atari video games, while Alpha defeated numerous professional players in the game of Go. However, single-agent training encounters some issues, such as the divergence in data distribution between training and testing environments, leading to significant impact from extrapolation errors in traditional RL algorithms. This results in overestimation of Q-values for Out-Of-Distribution (OOD) state-action pairs, causing the agent to erroneously prioritize these overestimated actions. Additionally, the imbalance between exploration and exploitation strategies can lead to diminished model generalization capabilities.
 
 ## exploration
-<div style="text-align:center;"> 
-<img src="img/process.jpg" style="width: 60%;"  />
+<div style="text-align:center;">  
+    <img src="img/process.jpg" style="width: 60%;" />  
 </div>  
+
 ## Installation
 <a href="https://github.com/google-deepmind/dm_control"> Click here to install the environment of this project</a></h2>
 
