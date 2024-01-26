@@ -1,4 +1,4 @@
-<h2 align="center"> <a href="https://arxiv.org/abs/2312.15965"> Optimistic and Pessimistic Actor in RL:Decoupling Exploration and Utilization</a></h2>
+<h2 align="center"> <a href="https://arxiv.org/abs/2312.15965"> OEfficient Reinforcemen Learning via Decoupling Exploration and Utilization</a></h2>
 <h4 align="center">
   <a href="">Jingpu Yang</a><sup>1</sup>, 
   <a href="">Qirui Zhao</a><sup>2</sup>, 
